@@ -1,5 +1,5 @@
 # FlyingTest
-纯蓝图小项目，代码在/content/Test中。  
+纯蓝图Demo，代码在/content/Test中。  
 基于UE4的Flying模板实现了以下功能:  
 ### 1.控制飞机朝准心处发射子弹。  
 屏幕坐标转化为世界坐标然后生成抛射物
